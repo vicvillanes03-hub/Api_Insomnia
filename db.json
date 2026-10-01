@@ -1,0 +1,53 @@
+{
+  "jogos": [
+    {
+      "titulo": "Minecraft",
+      "genero": "Sandbox",
+      "plataforma": "PC",
+      "nota": 9,
+      "status": "Finalizado",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "titulo": "Among Us",
+      "genero": "Party Game",
+      "plataforma": "Mobile",
+      "nota": 7,
+      "status": "Finalizado"
+    },
+    {
+      "id": "3",
+      "titulo": "The Legend of Zelda: Breath of the Wild",
+      "genero": "Action-Adventure",
+      "plataforma": "Nintendo Switch",
+      "nota": 10,
+      "status": "Concluído"
+    },
+    {
+      "id": "4",
+      "titulo": "Fortnite",
+      "genero": "Battle Royale",
+      "plataforma": "PC/Console/Mobile",
+      "nota": 7,
+      "status": "Jogando"
+    },
+    {
+      "id": "5",
+      "titulo": "Cyberpunk 2077",
+      "genero": "RPG",
+      "plataforma": "PC/Console",
+      "nota": 6,
+      "status": "Jogando"
+    },
+    {
+      "titulo": "Red Dead Redemption 2",
+      "genero": "Action-Adventure",
+      "plataforma": "PC/Console",
+      "nota": 10,
+      "status": "Quero jogar",
+      "id": "6"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
